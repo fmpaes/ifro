@@ -6,7 +6,7 @@ Checkpoint Prático #2
     VoIP: < 150ms
     Videochamada: < 150ms
   
-    Limite máximo para ambos: < 400ms
+    Limite máximo para ambos: < 300ms
 ---------------------------------------------
 2. Energia (PoE):
 
