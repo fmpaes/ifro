@@ -1,1 +1,16 @@
+Checkpoint Prático #2
 
+---------------------------------------------
+1.  Latência (QoS):
+  Equipamento: Huawei S6730-H48X6C
+    VoIP: < 150ms
+    Videochamada: < 150ms
+  
+    Limite máximo para ambos: < 400ms
+---------------------------------------------
+2. Energia (PoE):
+
+| Padrão                  | Potência máxima no PSE (porta) | Potência mínima garantida no PD |
+| ----------------------- | ------------------------------ | ------------------------------- |
+| 802.3af (PoE / Type 1)  | 15,4 W                         | 12,95 W                         |
+| 802.3at (PoE+ / Type 2) | 30 W                           | 25,5 W                          |
